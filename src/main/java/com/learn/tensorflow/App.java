@@ -38,7 +38,7 @@ public class App
     				System.out.println(tz.floatValue());
     			}catch(Exception e)
     			{
-    				System.out.println(e);
+    				
     			}
     		}
     	}
